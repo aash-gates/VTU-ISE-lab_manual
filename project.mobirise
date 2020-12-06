@@ -63,11 +63,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "VTU Manual",
+        "meta_descr": "Get your VTU ISE lab manual here \nThe repo contains lab programs\n© Copyright Victory Computers - All Rights Reserved",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/pexels-stanley-morales-14543601.webp"
       },
       "components": [
         {
